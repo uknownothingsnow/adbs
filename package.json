@@ -1,0 +1,22 @@
+{
+  "name": "adbs",
+  "version": "1.0.0",
+  "description": "adb extension with better cli support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lzyzsd/adbs"
+  },
+  "keywords": [
+    "adb"
+  ],
+  "author": "Bruce Lee",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "inquirer": "^0.11.4"
+  }
+}
